@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu496&show_icons=true&locale=en" alt="himanshu496" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu496&" alt="himanshu496" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu496&" alt="Himanshu496" /></p>
 
 
